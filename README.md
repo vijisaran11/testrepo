@@ -1,5 +1,5 @@
 # testrepo
 
-## editing the file
+##editing the file
 
-ITs a markdown file in this repository
+it's viji's repository file
